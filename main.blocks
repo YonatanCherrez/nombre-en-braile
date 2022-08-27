@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="tS@hc?w)+ihd|oW_O6!h" x="-1083" y="-817"><statement name="HANDLER"><block type="device_show_leds" id="].5;%8oERL3`^3if3Bqx"><field name="LEDS">`
+        . # . . . 
+        . # . . . 
+        # # . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="bu+WV]D(5!XejeFh.l+L"><value name="pause"><shadow type="timePicker" id="|}P58FyhLo0)l;C7{%i3"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="=qMm|DNb9ZVQ{g^HC-,i"><field name="LEDS">`
+        # . . . . 
+        # # . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="1C_ABbT-QBCAdbTPq4nK"><value name="pause"><shadow type="timePicker" id="KR?QLh+=Yi-mO;~DZ6q4"><field name="ms">3000</field></shadow></value><next><block type="device_show_leds" id="Aa+]+R~SY6es;ro3Y`cl"><field name="LEDS">`
+        . # . . . 
+        # . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="qyB*_cCz1nS}a/j}#B[l"><value name="pause"><shadow type="timePicker" id="YFH!T~+%IZ?xSD`?^mYS"><field name="ms">4000</field></shadow></value><next><block type="device_show_leds" id="b[;-S:p;?X4{K^!En)PJ"><field name="LEDS">`
+        # # . . . 
+        # . . . . 
+        # . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="MMObM0QuW?4L8JQ(;p4k"><value name="pause"><shadow type="timePicker" id="Q/IE]?UGJ];W3To6]c2w"><field name="ms">3000</field></shadow></value><next><block type="device_show_leds" id="=a#9+O9F#r!pMog^XSU$"><field name="LEDS">`
+        # # . . . 
+        # . . . . 
+        # . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="S9@`i~xYXWdBZGq,ShjK"><value name="pause"><shadow type="timePicker" id="8KR?p)=`=H_$hWeUxbi*"><field name="ms">4000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="2c?El#jT,}1CxjXhl/ap" x="0" y="0"></block></xml>
