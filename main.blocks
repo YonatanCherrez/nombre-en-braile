@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="tS@hc?w)+ihd|oW_O6!h" x="-1772" y="-3493"><statement name="HANDLER"><block type="device_show_leds" id="].5;%8oERL3`^3if3Bqx"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="tS@hc?w)+ihd|oW_O6!h" x="-1333" y="-5494"><statement name="HANDLER"><block type="device_show_leds" id="].5;%8oERL3`^3if3Bqx"><field name="LEDS">`
         . # . . . 
         . # . . . 
         # # . . . 
@@ -77,9 +77,9 @@
         . . . . . 
         . . . . .
         `</field><next><block type="device_pause" id="3q+GgDB.S:*Qn,2bPxH0"><value name="pause"><shadow type="timePicker" id="=ybig%^i|u.3DY1;*Cv/"><field name="ms">4000</field></shadow></value><next><block type="device_show_leds" id="b[;-S:p;?X4{K^!En)PJ"><field name="LEDS">`
+        . # . . . 
+        . # . . . 
         # # . . . 
-        # . . . . 
-        # . . . . 
         . . . . . 
         . . . . .
-        `</field><next><block type="device_pause" id="E)dFTWgyH@tZA2g(}oIa"><value name="pause"><shadow type="timePicker" id="EGy_Hus9+CFcCyvgNE;E"><field name="ms">3000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
+        `</field><next><block type="device_pause" id="E)dFTWgyH@tZA2g(}oIa"><value name="pause"><shadow type="timePicker" id="EGy_Hus9+CFcCyvgNE;E"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
